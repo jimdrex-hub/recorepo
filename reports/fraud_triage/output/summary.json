@@ -1,0 +1,31 @@
+{
+  "run_pt": "2026-08-18T23:32:17.101678-07:00",
+  "window_start_utc": "2026-08-16T06:32:17.101678+00:00",
+  "window_end_utc": "2026-08-19T06:32:17.101678+00:00",
+  "members": 219,
+  "purchases": 605,
+  "repeat_members": 105,
+  "repeat_purchases": 491,
+  "one_time_members": 114,
+  "one_time_purchases": 114,
+  "independently_concerning": 30,
+  "already_blocked": 2,
+  "repeat_concern_rate": 0.1429,
+  "one_time_concern_rate": 0.1316,
+  "relative_risk": 1.086,
+  "relative_risk_display": "1.09\u00d7",
+  "allowlist_earnings_total_usd": 1056.6,
+  "allowlist_earnings_per_member_usd": 4.82,
+  "allowlist_repeat_share": 0.5606,
+  "high_earn_threshold_usd": 35.2,
+  "high_earn_repeaters": [
+    1038817,
+    823499,
+    1684176,
+    633203,
+    1423397
+  ],
+  "priority_alert_count": 103,
+  "watchlist_count": 114,
+  "report_html": "/workspace/reports/fraud_triage/output/fraud_triage_72h.html"
+}
